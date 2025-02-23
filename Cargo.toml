@@ -1,0 +1,11 @@
+[package]
+license-file = "LICENSE"
+name = "emotionless"
+version = "0.1.0"
+edition = "2024"
+authors = ["Carlesso Cristian <@kentaromiura>"]
+repository = "https://github.com/kentaromiura/emotionless"
+categories = ["css", "styled-components"]
+
+[dependencies]
+read_pipe = "0.2.0"
